@@ -1,0 +1,7 @@
+"AddonInfo"
+{
+	"name" "url_open"
+	"author_name" "picklebutt"
+	"version" "1.0"
+	"info" "Custom url opener."
+}
