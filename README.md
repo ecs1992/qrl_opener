@@ -1,3 +1,5 @@
+qrl_opener
+==========
 Quick-URL Opener
 	Made by: Picklebutt
 	
